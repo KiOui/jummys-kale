@@ -127,5 +127,3 @@ if ( function_exists( 'wp_body_open' ) ) {
 get_template_part('parts/frontpage', 'banner');
 get_template_part('parts/frontpage', 'featured');
 } ?>
-
-<a id="content"></a>
